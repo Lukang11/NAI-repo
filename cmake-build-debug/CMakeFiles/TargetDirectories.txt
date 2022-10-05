@@ -1,0 +1,3 @@
+Z:/windows/desktop/NAI REPO/cmake-build-debug/CMakeFiles/NAI_REPO.dir
+Z:/windows/desktop/NAI REPO/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/windows/desktop/NAI REPO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
