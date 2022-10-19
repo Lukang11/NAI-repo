@@ -1,0 +1,3 @@
+C:/Users/Lukasz/Desktop/NAI/cmake-build-debug/CMakeFiles/NAI.dir
+C:/Users/Lukasz/Desktop/NAI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lukasz/Desktop/NAI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
